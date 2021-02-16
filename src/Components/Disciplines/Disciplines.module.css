@@ -1,0 +1,9 @@
+.disciplines {
+    display: flex;
+    padding: 45px;
+}
+
+.disciplines h1 {
+    font-size: 150px;
+    margin: auto;
+}

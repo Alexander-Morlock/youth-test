@@ -1,0 +1,50 @@
+.header {
+    height: 72px;
+    background-color: #5C00BC;
+    color: #fff;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 39px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header nav {
+    margin: auto;
+    margin-right: 187px;
+    width: 689px;
+    height: 38px;
+    display: flex;
+}
+
+.header ul {
+    list-style: none;
+    padding: 0;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.header a,
+.header a:active,
+.header a:visited,
+.header a:hover {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.donate {
+    background-color: #fff;
+}
+
+a.donate,
+a.donate:active,
+a.donate:visited,
+a.donate:hover {
+    color: #5C00BC;
+    padding: 0 12px;
+    margin-left: 40px;
+}

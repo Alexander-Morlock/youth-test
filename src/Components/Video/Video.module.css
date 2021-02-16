@@ -1,0 +1,9 @@
+.video {
+    display: flex;
+    padding: 45px;
+}
+
+.video h1 {
+    font-size: 150px;
+    margin: auto;
+}

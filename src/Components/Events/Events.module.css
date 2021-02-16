@@ -1,0 +1,9 @@
+.events {
+    display: flex;
+    padding: 45px;
+}
+
+.events h1 {
+    font-size: 150px;
+    margin: auto;
+}

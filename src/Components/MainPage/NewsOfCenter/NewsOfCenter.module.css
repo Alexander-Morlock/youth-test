@@ -1,0 +1,28 @@
+.newsOfCenter {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.newsOfCenter h2 {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    color: #222222;
+    width: 100%;
+}
+
+.allNewsLink {
+    width: 240px;
+    height: 60px;
+    border: 2px solid #5C00BC;
+    border-radius: 2px;
+    display: flex;
+    margin: 50px auto 60px auto;
+}
+
+.allNewsLink a {
+    margin: auto;
+    text-decoration: none;
+    color:  #5C00BC;
+}

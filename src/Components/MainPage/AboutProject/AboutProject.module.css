@@ -1,0 +1,52 @@
+.main {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main h1,
+.main h2 {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+}
+
+.sectionAbout {
+    padding: 72px 124px 0 112px;
+    width: 660px;
+}
+
+.divider {
+    height: 1px;
+    width: 100%;
+    background-color: #DFDDE2;
+}
+
+.sectionAllDisciplines {
+    padding: 72px 0 0 112px;
+    width: 660px;
+}
+
+.signInToSection {
+    padding: 163px 112px 0 112px;
+    width: 660px;
+}
+
+.signInToSection p {
+    margin-bottom: 50px;
+}
+
+.signInToSection a {
+    color: #fff;
+    background: #5C00BC;
+    text-decoration: none;
+    padding: 18px 34px;
+}
+
+.signInToSection a:hover {
+    background-color: #ff761b;
+}

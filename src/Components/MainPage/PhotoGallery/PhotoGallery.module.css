@@ -1,0 +1,6 @@
+.gallery {
+    height: 264px;
+    background-image: url('/src/img/gallery.jpg');
+    background-position: center;
+    margin: 100px 0;
+}

@@ -1,0 +1,9 @@
+.aboutUs {
+    display: flex;
+    padding: 45px;
+}
+
+.aboutUs h1 {
+    font-size: 150px;
+    margin: auto;
+}

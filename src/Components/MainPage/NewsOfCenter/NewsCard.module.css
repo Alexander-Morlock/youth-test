@@ -1,0 +1,38 @@
+.newsCard {
+    width: 440px;
+}
+
+.newsCard .wrapper h2 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: -0.3px;
+    color: #222222;
+    text-align: left;
+    margin-bottom: 32px;
+}
+
+.newsCard p {
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 10px;
+    text-transform: uppercase;
+    color: #222222;
+    margin: 0;
+}
+
+.newsCard h4 {
+    font-weight: bold;
+    font-size: 13px;
+    letter-spacing: -0.3px;
+    text-transform: uppercase;
+    color: #5C00BC;
+    margin: 0;
+}
+
+.wrapper {
+    padding: 24px 32px 28px 32px;
+    border: 1px solid #DFDDE2;
+    border-top: none;
+    margin-top: -3px;
+}
